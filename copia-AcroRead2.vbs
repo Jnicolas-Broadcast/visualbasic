@@ -1,4 +1,4 @@
-'this script takes 2 arguments => "Source" and "C:\" and uses this to copy a the file
+'Este script toma dos argumentos => Origen"\\10.1.3.171\c$" y destino"C:\" y usa esto para copiar el archivo "AcroRead.msi"
 "\\10.1.3.171\c$\Program Files (x86)\Lansweeper\PackageShare\Installers\Nuevo Acrobat Reader\AcroRead.msi" = WScript.Arguments.Item(0)
 "C:\" = WScript.Arguments.Item(1)
 
