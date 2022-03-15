@@ -6,6 +6,9 @@
 ' when a regular uninstall is no longer possible
 '
 ' Scope: Office 2013, 2016 and O365 C2R products
+'
+' EXTRAIDO DE : 
+' https://silentinstallhq.com/microsoft-office-2019-click-to-run-c2r-uninstall-offscrub-vbs-script/
 '*******************************************************************************
 
 Option Explicit
